@@ -1,0 +1,30 @@
+.title {
+    color:rgb(148, 18, 23);
+    font-family: "impact";
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(160, 172, 177);
+}
+
+.list {
+    color:rgb(148, 18, 23);
+    font-family: "Trebuchet MS";
+}
+
+.pic {
+    height:auto;
+    width:480px;
+}
+
+.subtext {
+    color:rgb(148, 18, 23);
+    text-align: center;
+}
+
+li, p, a {
+    color:rgb(85, 53, 83)
+}
